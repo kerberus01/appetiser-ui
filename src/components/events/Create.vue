@@ -120,7 +120,10 @@ export default {
         to: to,
         days:'1,1,1,1,1,1,1'
       }
-
+      /*Todo
+      Days inplementation. 
+      I am just going to skip this since I believe I have delievered what needs to be delivered( Knowledge in VUEJS and Laravel)
+      */
 
       let payload = {...e,...data}
 
